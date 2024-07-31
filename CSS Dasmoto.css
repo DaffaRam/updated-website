@@ -85,16 +85,16 @@
 
 .button {
   background-color: #494949;
+  color: white;
   font-size: 15px;
   font-family: 'Orelega One';
   border-radius: 25px;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 2000px;
-  height: 30px;
-  padding: 10px;
-  margin: 10px;
+  width: 100px;
+  height: 50px;
+  margin: 15px;
 }
 
 a:visited {
@@ -300,6 +300,7 @@ a:visited {
   text-align: center;
   width: 100px;
   height: 30px;
+  margin: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
