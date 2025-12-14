@@ -377,20 +377,6 @@ a:visited {
   height: 100%;
 }
 
-.footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: blue;
-  background-size: cover;
-  background-position: center;
-  height: 250px;
-  padding-top: 1%;
-  padding-left: 2%;
-  padding-right: 2%;
-  flex-wrap: wrap;
-}
-
 .describe {
   font-size: 15px;
   font-family: 'PT Serif';
@@ -506,3 +492,4 @@ a:visited {
 iframe {
   padding: 1%;
 }
+
